@@ -1,0 +1,150 @@
+[submodule "Strings"]
+	path = Strings
+	url = git@github.com:c4arl0s/Strings.git
+[submodule "Functions"]
+	path = Functions
+	url = git@github.com:c4arl0s/Functions.git
+[submodule "Structures"]
+	path = Structures
+	url = git@github.com:c4arl0s/Structures.git
+[submodule "ClassesAndInheritance"]
+	path = ClassesAndInheritance
+	url = git@github.com:c4arl0s/ClassesAndInheritance.git
+[submodule "Collections"]
+	path = Collections
+	url = git@github.com:c4arl0s/Collections.git
+[submodule "6TheBuildInSwiftcollectionTypesAADSSwift"]
+	path = 6TheBuildInSwiftcollectionTypesAADSSwift
+	url = git@github.com:c4arl0s/6TheBuildInSwiftcollectionTypesAADSSwift.git
+[submodule "Loops"]
+	path = Loops
+	url = git@github.com:c4arl0s/Loops.git
+[submodule "1Common-System-Views"]
+	path = 1Common-System-Views
+	url = git@github.com:c4arl0s/1Common-System-Views.git
+[submodule "ApplePieApp"]
+	path = ApplePieApp
+	url = git@github.com:c4arl0s/ApplePieApp.git
+[submodule "1-Why-Autolayout"]
+	path = 1-Why-Autolayout
+	url = git@github.com:c4arl0s/1-Why-Autolayout.git
+[submodule "2-Create-Alignment-Constraints"]
+	path = 2-Create-Alignment-Constraints
+	url = git@github.com:c4arl0s/2-Create-Alignment-Constraints.git
+[submodule "3-Create-size-constraints"]
+	path = 3-Create-size-constraints
+	url = git@github.com:c4arl0s/3-Create-size-constraints.git
+[submodule "4-Constraints-Relative-to-the-Screen"]
+	path = 4-Constraints-Relative-to-the-Screen
+	url = git@github.com:c4arl0s/4-Constraints-Relative-to-the-Screen.git
+[submodule "5-Safe-Area-Layout-Guide"]
+	path = 5-Safe-Area-Layout-Guide
+	url = git@github.com:c4arl0s/5-Safe-Area-Layout-Guide.git
+[submodule "6-Resolve-Constraints-Issues"]
+	path = 6-Resolve-Constraints-Issues
+	url = git@github.com:c4arl0s/6-Resolve-Constraints-Issues.git
+[submodule "7-Resolve-Constraints-Warnings"]
+	path = 7-Resolve-Constraints-Warnings
+	url = git@github.com:c4arl0s/7-Resolve-Constraints-Warnings.git
+[submodule "8-Constraints-Between-Siblings"]
+	path = 8-Constraints-Between-Siblings
+	url = git@github.com:c4arl0s/8-Constraints-Between-Siblings.git
+[submodule "9-Stack-Views"]
+	path = 9-Stack-Views
+	url = git@github.com:c4arl0s/9-Stack-Views.git
+[submodule "10-Stack-Views-Attributes"]
+	path = 10-Stack-Views-Attributes
+	url = git@github.com:c4arl0s/10-Stack-Views-Attributes.git
+[submodule "11-Size-Classes"]
+	path = 11-Size-Classes
+	url = git@github.com:c4arl0s/11-Size-Classes.git
+[submodule "12-Vary-Traits"]
+	path = 12-Vary-Traits
+	url = git@github.com:c4arl0s/12-Vary-Traits.git
+[submodule "13-Installed"]
+	path = 13-Installed
+	url = git@github.com:c4arl0s/13-Installed.git
+[submodule "14-Debug-View-Hierarchy"]
+	path = 14-Debug-View-Hierarchy
+	url = git@github.com:c4arl0s/14-Debug-View-Hierarchy.git
+[submodule "Calculator-UI-Presentation"]
+	path = Calculator-UI-Presentation
+	url = git@github.com:c4arl0s/Calculator-UI-Presentation.git
+[submodule "1-Buttons"]
+	path = 1-Buttons
+	url = git@github.com:c4arl0s/1-Buttons.git
+[submodule "2-Switches"]
+	path = 2-Switches
+	url = git@github.com:c4arl0s/2-Switches.git
+[submodule "3-Sliders"]
+	path = 3-Sliders
+	url = git@github.com:c4arl0s/3-Sliders.git
+[submodule "4-Text-Fields"]
+	path = 4-Text-Fields
+	url = git@github.com:c4arl0s/4-Text-Fields.git
+[submodule "5-Actions-and-Outlets"]
+	path = 5-Actions-and-Outlets
+	url = git@github.com:c4arl0s/5-Actions-and-Outlets.git
+[submodule "6-Gesture-Recognizers"]
+	path = 6-Gesture-Recognizers
+	url = git@github.com:c4arl0s/6-Gesture-Recognizers.git
+[submodule "7-Programmatic-Actions"]
+	path = 7-Programmatic-Actions
+	url = git@github.com:c4arl0s/7-Programmatic-Actions.git
+[submodule "8-Lab-Basic-Interactions"]
+	path = 8-Lab-Basic-Interactions
+	url = git@github.com:c4arl0s/8-Lab-Basic-Interactions.git
+[submodule "DisplayingData"]
+	path = DisplayingData
+	url = git@github.com:c4arl0s/DisplayingData.git
+[submodule "2Label"]
+	path = 2Label
+	url = git@github.com:c4arl0s/2Label.git
+[submodule "3Image-View"]
+	path = 3Image-View
+	url = git@github.com:c4arl0s/3Image-View.git
+[submodule "4Text-View"]
+	path = 4Text-View
+	url = git@github.com:c4arl0s/4Text-View.git
+[submodule "5Scroll-View"]
+	path = 5Scroll-View
+	url = git@github.com:c4arl0s/5Scroll-View.git
+[submodule "6Table-View"]
+	path = 6Table-View
+	url = git@github.com:c4arl0s/6Table-View.git
+[submodule "7Toolbars"]
+	path = 7Toolbars
+	url = git@github.com:c4arl0s/7Toolbars.git
+[submodule "8Navigation-Bars"]
+	path = 8Navigation-Bars
+	url = git@github.com:c4arl0s/8Navigation-Bars.git
+[submodule "9Tab-Bars"]
+	path = 9Tab-Bars
+	url = git@github.com:c4arl0s/9Tab-Bars.git
+[submodule "10Controls"]
+	path = 10Controls
+	url = git@github.com:c4arl0s/10Controls.git
+[submodule "11Buttons"]
+	path = 11Buttons
+	url = git@github.com:c4arl0s/11Buttons.git
+[submodule "12Segmented-Controls"]
+	path = 12Segmented-Controls
+	url = git@github.com:c4arl0s/12Segmented-Controls.git
+[submodule "13Text-Fields"]
+	path = 13Text-Fields
+	url = git@github.com:c4arl0s/13Text-Fields.git
+[submodule "14Sliders"]
+	path = 14Sliders
+	url = git@github.com:c4arl0s/14Sliders.git
+[submodule "15Switches"]
+	path = 15Switches
+	url = git@github.com:c4arl0s/15Switches.git
+[submodule "16Date-Pickers"]
+	path = 16Date-Pickers
+	url = git@github.com:c4arl0s/16Date-Pickers.git
+[submodule "17View-Controllers"]
+	path = 17View-Controllers
+	url = git@github.com:c4arl0s/17View-Controllers.git
+[submodule "18Lab-UIKit-Survey"]
+	path = 18Lab-UIKit-Survey
+	url = git@github.com:c4arl0s/18Lab-UIKit-Survey.git
